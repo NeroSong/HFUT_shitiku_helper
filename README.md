@@ -15,7 +15,7 @@
 
 ### 下载方式
 
-点击目录中的“up_查个题0.2.exe” --> 右上方 Download 按钮
+右上方绿色 Clone or download 按钮 --> 点击 Download ZIP 下载
 
 ### 
 
