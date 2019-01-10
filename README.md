@@ -1,6 +1,8 @@
 # HFUT_shitiku_helper
 合工大试题库辅助软件 —— 查个题 v0.2
 
+**1.10 update：试题库网站更新，测试页面屏蔽了Ctrl C，使用前需用插件或其他方法解除屏蔽！**
+
 ![查个题使用方式](https://github.com/NeroSong/HFUT_shitiku_helper/blob/master/pics/show.gif)
 
 > 你曾因为选多了试题库而烦恼吗？你还记得期末时力不从心的赶脚吗？
